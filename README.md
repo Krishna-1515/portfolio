@@ -25,5 +25,7 @@ A portfolio website is a digital platform designed to showcase an individual’s
 **Tech Stack**
 
 HTML: Structure of the website
+
 CSS: Styling and layout, including responsive design
+
 JavaScript: Interactive elements and animations
