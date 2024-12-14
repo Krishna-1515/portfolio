@@ -5,19 +5,25 @@ A portfolio website is a digital platform designed to showcase an individual’s
 **FEATURES**
 
 **1. Home Section**
+
       A welcoming introduction with a professional photo and tagline.
 
 **2. About Me Section**
+
       Key highlights of skills, certifications, or career goals.
       
 **3. Skills Section**
+
       Interactive or visual representation of technical and soft skills 
       
 **4. Projects Section**
+
       Display of completed projects with descriptions, images, and links to live demos or GitHub repositories.
       
 **5. Education Section**
+
       Timeline-style layout to showcase work experience, internships, and education history.
       
 **6. Contact Section**
+
       Links to email, phone number, and social media profiles.
